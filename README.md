@@ -1,6 +1,8 @@
 # xtregbem
 Between Effects Panel Data Ridge and Weighted Regression Use xtregbem With STATA 19
 
+https://www.youtube.com/watch?v=A7b8SXjw-oM
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
